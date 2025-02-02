@@ -1,0 +1,16 @@
+shift_id,day_of_week,start_time,end_time
+SHIFT1,Monday,10:02,19:52
+SHIFT2,Monday,13:48,19:20
+SHIFT3,Friday,10:07,18:48
+SHIFT4,Thursday,08:12,22:36
+SHIFT5,Wednesday,12:49,19:21
+SHIFT6,Monday,17:50,22:27
+SHIFT7,Monday,18:00,23:12
+SHIFT8,Tuesday,16:42,19:19
+SHIFT9,Thursday,16:46,18:49
+SHIFT10,Thursday,16:16,22:32
+SHIFT11,Tuesday,15:25,21:26
+SHIFT12,Thursday,13:47,20:47
+SHIFT13,Thursday,11:51,19:30
+SHIFT14,Friday,11:54,21:26
+SHIFT15,Monday,16:42,23:47
