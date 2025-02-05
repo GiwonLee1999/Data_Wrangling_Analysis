@@ -11,7 +11,7 @@ FROM
 group by filter_name;
 ```
 
-```
+```sql
 -- See if there's any null values in the filter name
 SELECT 
   filter_name
@@ -21,7 +21,7 @@ WHERE
   filter_name IS NULL;
 ```
 
-```
+```sql
 -- Check the minimum and maximum filter age
 SELECT
   MIN(filter_age_days) as Min_Filter_Age,
@@ -30,7 +30,7 @@ FROM
   `nimble-ally-449901-n6.air_filter_data.air_filter`;
 ```
 
-```
+```sql
 -- The correlation between filter age and efficiency
 SELECT 
     filter_age_days,
@@ -39,7 +39,7 @@ FROM
     `nimble-ally-449901-n6.air_filter_data.air_filter`;
 ```
 
-```
+```sql
 -- Since the filter age range from 0 - 68, split the range by 10 then find the average efficiency. 
 SELECT
     CASE
