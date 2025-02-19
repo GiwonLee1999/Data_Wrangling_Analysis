@@ -1,4 +1,15 @@
 # Seaborn plots 
+% Notes %
+-----------------------------------------------------------------------------------------------------------------
+## Numerical (Quantitative) Data
+This type of data is based on numbers and can be measured or counted. It includes:
+
+### Discrete Data
+- **Definition:** Countable numbers, such as the number of students in a class or the number of cars in a parking lot.
+  
+### Continuous Data
+- **Definition:** Data that can take any value within a range, such as height, weight, temperature, or time.
+-----------------------------------------------------------------------------------------------------------------
 
 # Plot Types and Their Benefits
 
